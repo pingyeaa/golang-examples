@@ -3,6 +3,7 @@
 
 ## 列表
 - [library-ini](library-ini) 配置文件读取
+- [library-flag](library-flag) 命令行标识解析
 
 > 欢迎各位同学共同完善
 
