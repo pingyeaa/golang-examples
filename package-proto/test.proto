@@ -1,10 +1,6 @@
 syntax = "proto3";
 package main;
 
-enum FOO {
-    X = 0;
-};
-
 message Test {
     string label = 1;
     int32 type = 2;
