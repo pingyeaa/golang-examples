@@ -5,6 +5,7 @@
 - [package-ini](package-ini) 配置文件读取
 - [package-flag](package-flag) 命令行标识解析
 - [package-proto](package-proto) 通讯序列化工具
+- [package-micro](package-micro) 微服务框架go-micro
 
 > 欢迎各位同学共同完善
 
