@@ -6,7 +6,8 @@
 - [package-flag](package-flag) 命令行标识解析
 - [package-proto](package-proto) 通讯序列化工具
 - [package-micro](package-micro) 微服务框架go-micro
-
+    - [01-helloworld](package-micro/01-helloworld) 快速搭建服务
+    - [02-config](package-micro/02-config) 配置读取
 > 欢迎各位同学共同完善
 
 ## 公众号（平也）
