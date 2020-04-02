@@ -1,5 +1,5 @@
 ## 说明
-本仓库整合各类常见Golang库示例，便于大家理解使用
+本仓库整合各类常见Golang库示例，欢迎大家参与进来
 
 ## 列表
 - [ini](ini) 配置文件读取
@@ -11,8 +11,6 @@
 - [dotsql](dotsql) SQL文件部分选择执行工具
 - [carbon](carbon) 时间处理工具
 - [gin](gin) web框架
-
-> 欢迎各位同学共同完善
 
 ## 公众号（平也）
 ![image](qrcode.png)
