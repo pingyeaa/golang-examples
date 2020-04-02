@@ -11,4 +11,4 @@
 > 欢迎各位同学共同完善
 
 ## 公众号（平也）
-![image](qrcode.jpg)
+![image](qrcode.png)
