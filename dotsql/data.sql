@@ -1,5 +1,4 @@
 -- name: create-users-table
-DROP TABLE IF EXISTS users;
 CREATE TABLE users (
     id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
     name VARCHAR(255),
