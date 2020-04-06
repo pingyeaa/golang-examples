@@ -12,6 +12,7 @@
 - [carbon](carbon) 时间处理工具
 - [gin](gin) web框架
 - [aurora](aurora) 给终端输出上色的工具
+- [email](email) 邮件发送
 
 ## 公众号（平也）
 ![image](qrcode.png)
