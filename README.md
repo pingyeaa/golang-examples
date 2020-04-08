@@ -12,6 +12,7 @@
 - [carbon](carbon) 时间处理工具
 - [gin](gin) web框架
     - [01-quickstart](gin/01-quickstart) 极速上手
+    - [02-route](gin/02-route) 路由与参数
 - [aurora](aurora) 给终端输出上色的工具
 - [email](email) 邮件发送
 
