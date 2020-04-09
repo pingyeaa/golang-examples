@@ -1,6 +1,14 @@
 ![](./logo.png)
 
 [![](https://img.shields.io/badge/公众号-平也-brightgreen)](#公众号)
+[![](https://img.shields.io/badge/博客园-平也-9cf)](https://www.cnblogs.com/pingyeaa)
+[![](https://img.shields.io/badge/掘金-平也-blue)](https://juejin.im/user/5b879fd46fb9a019e643501e/posts)
+[![](https://img.shields.io/badge/CSDN-平也-red)](https://blog.csdn.net/enoch612)
+[![](https://img.shields.io/badge/SegmentFault-平也-green)](https://segmentfault.com/u/pingyeaa)
+[![](https://img.shields.io/badge/今日头条-平也-critical)](https://www.toutiao.com/c/user/99726624485/#mid=1632470920869900)
+[![](https://img.shields.io/badge/开源中国-平也-important)](https://my.oschina.net/u/4429381)
+[![](https://img.shields.io/badge/简书-平也-orange)](https://www.jianshu.com/u/b683a986d544)
+[![](https://img.shields.io/badge/知乎-平也-yellow)](https://www.zhihu.com/people/ma-li-ao-de-guan-dao)
 
 ## 介绍
 本仓库整合各类常见Golang库示例，欢迎大家参与进来
