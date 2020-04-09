@@ -1,0 +1,3 @@
+[GIN-debug] GET    /hello                    --> main.main.func1 (3 handlers)
+[GIN-debug] Environment variable PORT is undefined. Using port :8080 by default
+[GIN-debug] Listening and serving HTTP on :8080
