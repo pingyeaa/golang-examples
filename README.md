@@ -1,11 +1,11 @@
 ![](./logo.png)
 
-[![](https://img.shields.io/badge/公众号-平也-brightgreen)](https://github.com/pingyeaa/golang-examples#公众号)
+[![](https://img.shields.io/badge/公众号-平也-brightgreen)](#公众号)
 
-### 介绍
+## 介绍
 本仓库整合各类常见Golang库示例，欢迎大家参与进来
 
-### 示例说明
+## 示例说明
 - [ini](ini) 配置文件读取
 - [flag](flag) 命令行标识解析
 - [proto](proto) 通讯序列化工具
@@ -20,6 +20,5 @@
 - [aurora](aurora) 给终端输出上色的工具
 - [email](email) 邮件发送
 
-### 公众号「平也」
-[](#公众号)
+## 公众号
 ![image](qrcode.png)
