@@ -26,9 +26,10 @@
     - [01-quickstart](gin/01-quickstart) 极速上手
     - [02-route](gin/02-route) 路由与参数
     - [03-middleware](gin/03-middleware) 中间件
-    - [04-log](gin/04-log) 日志处理
+    - [04-validator](gin/04-validator) 参数绑定与校验
 - [aurora](aurora) 给终端输出上色的工具
 - [email](email) 邮件发送
+- [logrus](logrus) 日志处理工具
 
 ## 公众号
 ![image](qrcode.png)
